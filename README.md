@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://cajusticewatch.com/owl-mascot.svg" height="14"/> [California Justice Watch](https://github.com/cajusticewatch/mcp-server) - California criminal-justice accountability databases: 58 District Attorneys, 196 defenders, 1,620 current judges, 1,500 officer misconduct records, CJP judicial discipline (247 records + semantic search over 250 decision PDFs), 671 POST decertifications. Remote, open auth, sourced from cjp.ca.gov / post.ca.gov / court records.
 
 <br />
 
